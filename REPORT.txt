@@ -1,0 +1,17 @@
+1. For this assignment I did not collaborate with anyone.
+
+2. For the most part I believe the assignment is correct. I may have incorrectly developed the pagetables file
+
+4. The assignment was challenging to say the least. I would be extremely interested in building a much more in depth program, given correct guidance.
+
+5. Program output: 
+Total number of page faults 3981
+
+md5sum for files
+
+862810565ecf9d928c1b2ffd873ecbeb  output-part1test
+
+ceabc02825a5b908e474b053074ab53c  output-part1
+
+08fe576ba669fa10baad87d45de4c2d1  output-part2
+
